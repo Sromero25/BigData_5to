@@ -1,0 +1,5 @@
+**/.env/
+.vscode/
+**/__pycache__/
+**/.ipynb_checkpoints/
+.U1_1_Probabilidad_estadistica
